@@ -1,12 +1,12 @@
 # Portafolio - Remigio Stocker
 
-Este proyecto corresponde al desafío 5 de Desafío Latam, donde se trabajó el manejo de Git, GitHub, SSH, y Terminal, además de aplicar buenas prácticas de desarrollo web, diseño responsivo y personalización de un portafolio online.
+En este proyecto se trabajó el manejo de Git, GitHub, SSH, y Terminal, además de aplicar buenas prácticas de desarrollo web, diseño responsivo y personalización de un portafolio online.
 
 ---
 
 ## Descripción General 🖥️
 
-Se partió desde un proyecto forkeado y clonado desde GitHub, el cual fue modificado por completo para representar un portafolio personal real, adaptado a mi perfil como diseñador UX/UI y desarrollador web en formación.
+Se partió desde un proyecto forkeado y clonado desde GitHub, el cual fue modificado por completo para representar un portafolio personal real, adaptado a mi perfil.
 
 El proyecto incluye:
 - Personalización total de contenido.
@@ -38,14 +38,13 @@ El proyecto incluye:
 - Footer con enlaces a redes sociales.
 - Navbar responsiva con toggle funcional.
 - Efectos de hover y transiciones suaves en íconos y cards.
-- Footer fijo en la parte inferior de la pantalla.
 - Diseño adaptable a todas las resoluciones.
 
 ---
 
 ## Enlace al sitio en vivo 🌐
 
-[Ver portafolio online aquí](https://remigio96.github.io/fdsw-github/)
+[Ver portafolio online aquí](https://jovial-choux-232e3e.netlify.app/)
 
 ---
 
