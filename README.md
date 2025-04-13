@@ -1,3 +1,4 @@
+<img width="457" alt="Logoremi" src="https://github.com/user-attachments/assets/63d4dfc0-8b10-4a01-a913-4fcf7a187244" />
 # Portafolio - Remigio Stocker
 
 En este proyecto se trabajó el manejo de Git, GitHub, SSH, y Terminal, además de aplicar buenas prácticas de desarrollo web, diseño responsivo y personalización de un portafolio online.
