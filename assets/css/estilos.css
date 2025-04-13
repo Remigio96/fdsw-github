@@ -8,7 +8,10 @@ body {
   background-image: url("../img/bg-hero.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-attachment: fixed;  /* opcional: efecto scroll */
+  background-size: 50%;
+  background-position: left 20%;
+  background-color: #020101; /* O el color que quieras de fondo */
 }
 
 /* Mis trabajos */
