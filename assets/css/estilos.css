@@ -1,7 +1,10 @@
 body {
   font-family: "Nunito", sans-serif;
+  background-color: #f5f4f4;
 }
-
+nav {
+  background-color: #1A1A1A;
+}
 /* Hero Section */
 
 #Hero-Section {
@@ -23,11 +26,20 @@ body {
   background-position: center;
 }
 
+#Mis-trabajos {
+  background-color: #1A1A1A;
+}
+
+
 /* Contacto */
 
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
+}
+
+footer {
+  background-color: #1A1A1A;
 }
 
 @media (max-width: 768px) {
