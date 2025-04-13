@@ -34,6 +34,12 @@ nav {
 .card {
   border-radius: 1rem;
   overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+}
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4); /* Sombra más pro */
 }
 
 
@@ -46,6 +52,16 @@ nav {
 
 footer {
   background-color: #1A1A1A;
+}
+
+footer img {
+  transition: all 0.3s ease;  /* Transición suave */
+}
+
+footer img:hover {
+  transform: translateY(-4px) scale(1.2); /* Sube un poquito y crece */
+  filter: brightness(1.5); /* Ilumina */
+  cursor: pointer;
 }
 
 @media (max-width: 768px) {
