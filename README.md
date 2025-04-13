@@ -1,4 +1,4 @@
-<img width="600" alt="Logoremi" src="https://github.com/user-attachments/assets/63d4dfc0-8b10-4a01-a913-4fcf7a187244" />
+<img width="800" alt="Logoremi" src="https://github.com/user-attachments/assets/63d4dfc0-8b10-4a01-a913-4fcf7a187244" />
 
 
 # Portafolio - Remigio Stocker
